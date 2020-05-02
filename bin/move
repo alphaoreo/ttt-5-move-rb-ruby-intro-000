@@ -9,7 +9,7 @@ board= [" "]
   board.push(" ")
 end
 
-puts "Welcome to TicTactToe!"
+puts "Welcome to Tic Tac Toe!"
 puts "Where would you like to go?"
 choice = gets.strip
 choice = input_to_index(choice)
